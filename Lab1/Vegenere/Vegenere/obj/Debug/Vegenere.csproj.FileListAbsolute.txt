@@ -1,0 +1,15 @@
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\Vegenere.exe.config
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\Vegenere.exe
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\Vegenere.pdb
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.csproj.AssemblyReference.cache
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.Form1.resources
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.Properties.Resources.resources
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.csproj.GenerateResource.cache
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.csproj.CoreCompileInputs.cache
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.exe
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.pdb
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\MathNet.Numerics.dll
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\System.ValueTuple.dll
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\MathNet.Numerics.xml
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\bin\Debug\System.ValueTuple.xml
+D:\ATMMT_TH\Lab1\Vegenere\Vegenere\obj\Debug\Vegenere.csproj.Up2Date

@@ -1,0 +1,15 @@
+D:\Hill\Hill\Hill\obj\Debug\Hill.csproj.AssemblyReference.cache
+D:\Hill\Hill\Hill\obj\Debug\Hill.Properties.Resources.resources
+D:\Hill\Hill\Hill\obj\Debug\Hill.csproj.GenerateResource.cache
+D:\Hill\Hill\Hill\obj\Debug\Hill.csproj.CoreCompileInputs.cache
+D:\Hill\Hill\Hill\bin\Debug\Hill.exe.config
+D:\Hill\Hill\Hill\bin\Debug\Hill.exe
+D:\Hill\Hill\Hill\bin\Debug\Hill.pdb
+D:\Hill\Hill\Hill\bin\Debug\MathNet.Numerics.dll
+D:\Hill\Hill\Hill\bin\Debug\System.ValueTuple.dll
+D:\Hill\Hill\Hill\bin\Debug\MathNet.Numerics.xml
+D:\Hill\Hill\Hill\bin\Debug\System.ValueTuple.xml
+D:\Hill\Hill\Hill\obj\Debug\Hill.Hill_form.resources
+D:\Hill\Hill\Hill\obj\Debug\Hill.csproj.Up2Date
+D:\Hill\Hill\Hill\obj\Debug\Hill.exe
+D:\Hill\Hill\Hill\obj\Debug\Hill.pdb

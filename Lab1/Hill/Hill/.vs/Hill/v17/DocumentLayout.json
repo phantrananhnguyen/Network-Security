@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|d:\\atmmt_th\\lab1\\hill\\hill\\hill\\hill_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|solutionrelative:hill\\hill_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\hill\\hill_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|solutionrelative:hill\\hill_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\hill\\hill_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|solutionrelative:hill\\hill_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\hill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE0CF0-FFC1-44DB-A674-F041B5FE151C}|Hill\\Hill.csproj|solutionrelative:hill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hill_form.cs",
+              "DocumentMoniker": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Hill_form.cs",
+              "RelativeDocumentMoniker": "Hill\\Hill_form.cs",
+              "ToolTip": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Hill_form.cs",
+              "RelativeToolTip": "Hill\\Hill_form.cs",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAzwGUBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:24:46.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Program.cs",
+              "RelativeDocumentMoniker": "Hill\\Program.cs",
+              "ToolTip": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Program.cs",
+              "RelativeToolTip": "Hill\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:27:07.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hill_form.Designer.cs",
+              "DocumentMoniker": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Hill_form.Designer.cs",
+              "RelativeDocumentMoniker": "Hill\\Hill_form.Designer.cs",
+              "ToolTip": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Hill_form.Designer.cs",
+              "RelativeToolTip": "Hill\\Hill_form.Designer.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAQwE8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:26:09.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hill_form.cs [Design]",
+              "DocumentMoniker": "D:\\ATMMT_TH\\Lab1\\Hill\\Hill\\Hill\\Hill_form.cs",
+              "RelativeDocumentMoniker": "Hill\\Hill_form.cs",
+              "ToolTip": "D:\\Hill\\Hill\\Hill\\Hill_form.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Hill\\Hill\\Hill\\Hill_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:24:26.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
