@@ -1,0 +1,10 @@
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\bin\Debug\PlayFair.exe.config
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\bin\Debug\PlayFair.exe
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\bin\Debug\PlayFair.pdb
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.csproj.AssemblyReference.cache
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.PlayFair.resources
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.Properties.Resources.resources
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.csproj.GenerateResource.cache
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.csproj.CoreCompileInputs.cache
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.exe
+D:\ATMMT_TH\Lab1\PlayFair\PlayFair\PlayFair\obj\Debug\PlayFair.pdb
