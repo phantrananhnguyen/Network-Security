@@ -1,9 +1,9 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog, ttk
-from Crypto.PublicKey import RSA
+from Crypto.PublicKey import RSA 
 from Crypto.Cipher import PKCS1_OAEP
-from Crypto.Signature import pkcs1_15
-from Crypto.Hash import SHA256
+from Crypto.Signature import pkcs1_15 
+from Crypto.Hash import SHA256 
 from Crypto.Protocol.KDF import PBKDF2
 from Crypto.Cipher import AES
 import base64
